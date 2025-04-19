@@ -4,6 +4,12 @@ The **Online Learning App** is a versatile platform designed to connect educator
 
 ---
 
+## 🎥 Demo Video
+
+[![Watch the demo](https://via.placeholder.com/640x360.png?text=Click+to+Watch+Demo)](https://drive.google.com/file/d/1HALPrOq2EfS7SpVV4xv-A0-L0aJRh0Mh/view)
+
+---
+
 ## 🌟 Features
 
 - **Educators**: Create and manage courses effortlessly.
